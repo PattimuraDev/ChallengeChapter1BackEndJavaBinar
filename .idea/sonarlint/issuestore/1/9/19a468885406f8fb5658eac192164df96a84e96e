@@ -1,0 +1,86 @@
+
+r
+java:S11927"WDefine a constant instead of duplicating this literal "
+--------------------
+" 7 times.(Ó˜üÿÿÿÿ
+l
+java:S1192"VDefine a constant instead of duplicating this literal "--------------------
+" 6 times.(ËŠ×Ú
+l
+java:S1192."WDefine a constant instead of duplicating this literal "
+
+-------------------
+" 4 times.(±ô‚
+†
+java:S11928"pDefine a constant instead of duplicating this literal "tekan tombol enter untuk kembali ke menu utama
+" 7 times.(öÏè£
+q
+java:S1192"VDefine a constant instead of duplicating this literal "--------------------" 10 times.(·ìÔĞùÿÿÿÿ
+l
+java:S1192}"VDefine a constant instead of duplicating this literal "
+-------------------
+" 3 times.(¢Œ…Ò
+l
+java:S11924"QDefine a constant instead of duplicating this literal "
+Processing ...
+" 7 times.(ß´®ôıÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+N
+java:S1854<"8Remove this useless assignment to local variable "back".(Şæƒ²
+N
+java:S1854K"8Remove this useless assignment to local variable "back".(Şæƒ²
+N
+java:S1854\"8Remove this useless assignment to local variable "back".(Şæƒ²
+N
+java:S1854m"8Remove this useless assignment to local variable "back".(Şæƒ²
+O
+java:S1854Š"8Remove this useless assignment to local variable "back".(Şæƒ²
+O
+java:S1854"8Remove this useless assignment to local variable "back".(Şæƒ²
+O
+java:S1854¯"8Remove this useless assignment to local variable "back".(Şæƒ²
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËŠ×Ú
+7	java:S131""Add a default case to this switch.(¯ŞœÊ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ËŠ×Ú
+M	java:S106."9Replace this use of System.out or System.err by a logger.(±ô‚
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(…¥Îñşÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ß´®ôıÿÿÿÿ
+?
+java:S1481<")Remove this unused "back" local variable.(Şæƒ²
+M	java:S106>"9Replace this use of System.out or System.err by a logger.(±ô‚
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(„»±úÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(ß´®ôıÿÿÿÿ
+?
+java:S1481K")Remove this unused "back" local variable.(Şæƒ²
+M	java:S106M"9Replace this use of System.out or System.err by a logger.(±ô‚
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.( ¹Ä¬ıÿÿÿÿ
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(¡â“Âÿÿÿÿÿ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(ß´®ôıÿÿÿÿ
+?
+java:S1481\")Remove this unused "back" local variable.(Şæƒ²
+M	java:S106^"9Replace this use of System.out or System.err by a logger.(±ô‚
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(èÃü¿üÿÿÿÿ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(©¶û¦ÿÿÿÿÿ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(ß´®ôıÿÿÿÿ
+?
+java:S1481m")Remove this unused "back" local variable.(Şæƒ²
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(ËŠ×Ú
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(¢Œ…Ò
+T	java:S106"9Replace this use of System.out or System.err by a logger.(®å¿ğşÿÿÿÿ
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ß´®ôıÿÿÿÿ
+@
+java:S1481Š")Remove this unused "back" local variable.(Şæƒ²
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(¢Œ…Ò
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ò™¤âşÿÿÿÿ
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(†äÓö
+O	java:S106”"9Replace this use of System.out or System.err by a logger.(­øÊú
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(ß´®ôıÿÿÿÿ
+@
+java:S1481")Remove this unused "back" local variable.(Şæƒ²
+O	java:S106 "9Replace this use of System.out or System.err by a logger.(¢Œ…Ò
+T	java:S106¤"9Replace this use of System.out or System.err by a logger.(ÿ©¶Éşÿÿÿÿ
+O	java:S106¦"9Replace this use of System.out or System.err by a logger.(çôó
+T	java:S106¨"9Replace this use of System.out or System.err by a logger.(ß´®ôıÿÿÿÿ
+@
+java:S1481¯")Remove this unused "back" local variable.(Şæƒ²
